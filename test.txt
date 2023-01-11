@@ -1,1 +1,2 @@
 Jefferson|https://jefferson1947.github.io/ava.jpg|true
+TwentyTwo|https://cdn.discordapp.com/avatars/691147101844799529/7dca9c79f3568a89ab0ad3fe0c1bafc4.png|true
