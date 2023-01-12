@@ -1,2 +1,2 @@
 Jefferson|https://jefferson1947.github.io/ava.jpg|true
-TwentyTwo|https://cdn.discordapp.com/avatars/691147101844799529/7dca9c79f3568a89ab0ad3fe0c1bafc4.png|true
+twentytwo|https://media.discordapp.net/attachments/1036655766427414538/1063217073125343302/Screenshot_2.png|true|https://media.tenor.com/MlCeUwzn2nEAAAAd/troll-lol.gif
