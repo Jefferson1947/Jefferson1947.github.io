@@ -1,3 +1,0 @@
-jefferson&true&all
-twentytwo&true&all
-FlugerNew&true&all
