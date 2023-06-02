@@ -1,0 +1,103 @@
+ html,body{
+	 margin: 0;
+	 font-family: "Aeroport";
+	 overflow-x: hidden;
+}
+
+.logo {
+    width: auto;
+    height: auto;
+    max-width: 125%;
+    max-height: 70%;
+    display: block;
+    float: left;
+    margin-top: 8vw;
+    animation: moveLogo 4s infinite alternate;
+}
+
+@keyframes moveLogo {
+    0% {
+        rotate: 2deg;
+    }
+    50% {
+        rotate: -2deg;
+    }
+    100% {
+        rotate: 2deg;
+    }
+}
+
+ header{
+	 min-width: 80vw;
+	 height: 100vh;
+	 background: url("../images/background.png");
+	 background-size: cover;
+	 padding: 0vw 10vw;
+	 display: flex;
+}
+ header .content{
+	 display: inline-flex;
+	 width: 37vw;
+	 height: 90vh;
+	 color: white;
+	 margin-left: -1;
+	 margin-right: auto;
+}
+ .content .align{
+	 text-shadow: 0 0 10px #f0f0f0;
+	 width: 37vw;
+	 display: block;
+	 min-width: 100%;
+	 margin: auto;
+}
+ header .content h1{
+	 color: white;
+	 font-size: 4.4vw;
+	 text-align: left;
+}
+ header .content p{
+	 opacity: 0.7;
+	 color: white;
+	 font-weight: 200;
+	 margin-top: 0vw;
+	 font-size: 1.2vw;
+	 opacity: 0.8;
+	 text-align: left;
+}
+ header .content p1 {
+	 opacity: 0.7;
+	 color: white;
+	 font-weight: 200;
+	 margin-top: 2vw;
+	 font-size: 1.2vw;
+	 opacity: 0.8;
+	 text-align: left;
+}
+ header .content .footer{
+	 margin-top: 1.5vw;
+	 display: flex;
+	 width: 100%;
+}
+ header .content .footer .align{
+	 min-width: 20vw;
+}
+header .content .footer .button {
+    padding: 0.5vw 1.8vw;
+    background: #1F1F1F;
+    color: white;
+    border-radius: 1.4vw;
+    font-size: 1.2vw;
+    font-weight: 300;
+    box-shadow: 0px 0.05vw 1.5vw rgba(0, 0, 0, 0.46);
+    float: left;
+    transition: background 0.9s; /* Изменяем transition только для background */
+}
+
+header .content .footer .button:hover {
+    background: linear-gradient(10deg, rgba(63, 0, 77, 0) 0%, rgba(63, 0, 77, 1) 20%, rgba(119, 0, 162, 1) 100%);
+}
+ h1,h2,h3,h4,h5,p,text,a{
+	 margin: 0;
+	 text-decoration: none;
+	 color: rgba(15,15,15,1.00);
+}undefined}undefined
