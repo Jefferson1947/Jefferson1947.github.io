@@ -1,0 +1,279 @@
+{
+  "Author": "Jefferson",
+  "AuthorAvatar": "https://cdn.discordapp.com/attachments/1117084723177594910/1117141671495352431/image.png",
+  "Module": {
+    "Velocity": {
+      "enable": true,
+      "bind": 90,
+      "Setting": {}
+    },
+    "AttackAura": {
+      "enable": false,
+      "bind": 82,
+      "Setting": {
+        "Радиус атаки": 3.0,
+        "Радиус наводки": 3.6,
+        "Бить через стену": true,
+        "Не бить когда ешь": true,
+        "Бить только критами": true,
+        "Ломать щит": true,
+        "Цели для атаки": "Игроки,Голые"
+      }
+    },
+    "FastBow": {
+      "enable": false,
+      "bind": -1,
+      "Setting": {}
+    },
+    "GAppleCD": {
+      "enable": false,
+      "bind": -1,
+      "Setting": {
+        "Задержка на поедание": 2.0
+      }
+    },
+    "AutoTotem": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {
+        "Здоровье": 5.8,
+        "Не брать при шаре": false,
+        "Дистанция": 5.0,
+        "Брать...": "при Кристале"
+      }
+    },
+    "NoDamageFriend": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {}
+    },
+    "AutoExplosion": {
+      "enable": false,
+      "bind": 88,
+      "Setting": {}
+    },
+    "AutoAnchor": {
+      "enable": false,
+      "bind": -1,
+      "Setting": {
+        "Задержка": 150.0
+      }
+    },
+    "AirJump": {
+      "enable": false,
+      "bind": 72,
+      "Setting": {}
+    },
+    "FlyControl": {
+      "enable": false,
+      "bind": 73,
+      "Setting": {}
+    },
+    "NoSlow": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {}
+    },
+    "Strafe": {
+      "enable": false,
+      "bind": 86,
+      "Setting": {}
+    },
+    "WaterSpeed": {
+      "enable": true,
+      "bind": 89,
+      "Setting": {
+        "При зелье скорости": true,
+        "Прыжки по воде": true
+      }
+    },
+    "GuiWalk": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {}
+    },
+    "Sprint": {
+      "enable": false,
+      "bind": 76,
+      "Setting": {}
+    },
+    "Timer": {
+      "enable": false,
+      "bind": 67,
+      "Setting": {
+        "Скорость": 0.5,
+        "Умный просчет": true
+      }
+    },
+    "Hud": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {
+        "Элементы": "Координаты игрока,Список актив. зелий,Логотип,Информация о цели,Информация о броне,Список вкл. модулей",
+        "Цвета": "Двойной",
+        "Первый цвет": -6749953,
+        "Второй цвет": -14213574
+      }
+    },
+    "Bright": {
+      "enable": false,
+      "bind": -1,
+      "Setting": {}
+    },
+    "HitParticle": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {}
+    },
+    "JumpCircle": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {
+        "Режимы": "Бренд",
+        "Скорость пропадания": 5.9,
+        "Радиус круга": 2.9
+      }
+    },
+    "TargetEsp": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {}
+    },
+    "NameTags": {
+      "enable": false,
+      "bind": -1,
+      "Setting": {}
+    },
+    "NoOverlayVisual": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {
+        "Огонь": true,
+        "Блоки": true,
+        "Таблица Информации": false,
+        "Эффекты от ударов": true
+      }
+    },
+    "ChinaHat": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {}
+    },
+    "PostProcessing": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {}
+    },
+    "TriangleEsp": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {
+        "Метка": true,
+        "События": true,
+        "Игроки": true
+      }
+    },
+    "Predict": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {}
+    },
+    "Ambience": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {
+        "Время": "Ночь"
+      }
+    },
+    "SwingAnimation": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {
+        "Режимы": "Смахнуть"
+      }
+    },
+    "AutoLeave": {
+      "enable": false,
+      "bind": -1,
+      "Setting": {
+        "Дистанция": 60.0
+      }
+    },
+    "Spider": {
+      "enable": false,
+      "bind": 71,
+      "Setting": {}
+    },
+    "AutoTPAccept": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {
+        "Только друзей": true
+      }
+    },
+    "ItemScroller": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {}
+    },
+    "FreeCam": {
+      "enable": false,
+      "bind": 85,
+      "Setting": {}
+    },
+    "NoInteract": {
+      "enable": false,
+      "bind": 82,
+      "Setting": {
+        "Двери": true,
+        "Контейнер": false,
+        "Кнопки": false,
+        "Подставка для брони": true
+      }
+    },
+    "NoPush": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {
+        "Сущности": true,
+        "Блоки": true,
+        "Вода": true
+      }
+    },
+    "ClickPearl": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {
+        "Игнор ClickFriend": true
+      }
+    },
+    "NoDelay": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {
+        "Прыжки": true,
+        "Нажатия": false
+      }
+    },
+    "DeleteArmorStands": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {}
+    },
+    "FakePlayer": {
+      "enable": false,
+      "bind": 75,
+      "Setting": {}
+    },
+    "StaffStatistic": {
+      "enable": true,
+      "bind": -1,
+      "Setting": {}
+    },
+    "ClickFriend": {
+      "enable": false,
+      "bind": -1,
+      "Setting": {}
+    }
+  }
+}
